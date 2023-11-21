@@ -105,6 +105,10 @@ color: #EAF6F6;
   text-align: left;
 }
 
+.pro-img{
+  float: center;
+  width: 10%;
+}
 .code-img{
   width: 25%;
   float: left;
